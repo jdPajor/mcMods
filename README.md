@@ -1,1 +1,1 @@
-just ignore this repo
+just ignore this repo (Modpack for priv server)
